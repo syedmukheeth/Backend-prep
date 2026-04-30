@@ -12,7 +12,7 @@ This repository tracks my daily learning, assignments, and deep-dive notes as I 
 ### Phase 1: The Foundation (Days 1-5)
 *   **Day 1**: How the Internet Actually Works (DNS, TCP/IP, Packets) ✅
 *   **Day 2**: HTTP / HTTPS Deep Dive (Methods, Headers, Status Codes, TLS) ✅
-*   **Day 3**: Node.js Internals (V8, libuv, Threads)
+*   **Day 3**: Node.js Internals (V8, libuv, Threads) ✅
 *   **Day 4**: The Event Loop (Macrotasks, Microtasks, Real-world blocking)
 *   **Day 5**: Streams & Buffers (Handling large data without crashing)
 
